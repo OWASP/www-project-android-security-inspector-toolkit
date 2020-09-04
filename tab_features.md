@@ -1,8 +1,8 @@
-tab_example.md
+tab_features.md
 
 
 ---
-title: Example
+title: Features
 layout:  null
 tab: true
 order: 1
