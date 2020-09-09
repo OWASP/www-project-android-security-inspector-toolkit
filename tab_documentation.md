@@ -11,7 +11,7 @@ tags: all-tag
 follow the navigation items for more!
 
 - [Quick start](#quick-start)
-- [Extrack info APK (example)](#extrack-info-apk-(example))
+- [Extrack info APK](#extrack-info-apk)
 
 
 ### Quick start
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 - Clone the repo: `git clone https://***/tool.git`
 - Install with [python](https://www.***.com/): `apt-get install toolkit-example-line`
 
-### Extrack info APK (example)
+### Extrack info APK
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 
