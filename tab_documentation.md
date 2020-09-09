@@ -11,7 +11,7 @@ tags: all-tag
 follow the navigation items for more!
 
 - [Quick start](#quick-start)
-- [Extrack info APK Example](#extrack-info-apk- example)
+- [Extrack info APK Example](#extrack-info-apk-example)
 
 
 ### Quick start
