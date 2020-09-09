@@ -8,7 +8,7 @@ type:
 pitch: A very brief, one-line description of your project
 
 ---
-![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg =100x20)
+![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
 
 The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
 
