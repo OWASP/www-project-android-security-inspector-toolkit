@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Android Security Inspector Toolkit
-tags: features-tag
+tags: example-tag
 level: 1
 type: 
 pitch: A very brief, one-line description of your project
