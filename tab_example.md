@@ -2,8 +2,8 @@
 title: Example
 layout:  null
 tab: true
-order: 3
-tags: all-tag
+order: 0
+tags: example-tag
 ---
 
 ## Example
