@@ -1,5 +1,6 @@
 ### Project Information
-Incubator Project
+<i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.5em;padding-left:12px;">Incubator Project</span>
+
 
 #### Audience
 <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span>
