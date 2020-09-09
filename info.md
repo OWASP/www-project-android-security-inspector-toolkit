@@ -3,7 +3,7 @@ Incubator Project
 
 #### nuevo text
 [![New projects](assets/images/New_projects.png)](https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects)
-<i class="fas fa-flask" style="font-size: 1.2em; color:#FFA500;"></i><span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
+<span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
 
 * [Tool Project](#)
 * [Version 2.8.0](#)
