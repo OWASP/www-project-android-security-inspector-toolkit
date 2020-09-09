@@ -41,6 +41,14 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 follow the navigation items for more
 
 
+### Extract APK and Automatic deobfuscate
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+
+- [Download the latest release](https:***.com)
+- Clone the repo: `git clone https://***/tool.git`
+- Install with [python](https://www.***.com/): `apt-get install toolkit`
+
+
 ## Audience
 This Project mainly targets 3 type of audience:
 
@@ -53,11 +61,3 @@ This Project mainly targets 3 type of audience:
 This program is open Source License.
 
 [![license](https://img.shields.io/badge/license-APACHE-green.svg)](https://www.apache.org/)
-
-
-## Extract APK and Automatic deobfuscate
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
-
-- [Download the latest release](https:***.com)
-- Clone the repo: `git clone https://***/tool.git`
-- Install with [python](https://www.***.com/): `apt-get install toolkit`
