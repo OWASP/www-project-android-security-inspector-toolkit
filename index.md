@@ -29,7 +29,7 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 
 ## Quick links
 
-- [Extract APK and Automatic deobfuscate](#Extract-APK-and-Automati-deobfuscate)
+- [Extract APK and Automatic deobfuscate](#extract-apk-and-automatic-deobfuscate)
 - [Manual discovery and pre-configured search options into source code](#quick-2)
 - [Frida gadgets automation for advanced evasion options](#quick-3)
 - [Analysis of various types of files](#quick-4)
