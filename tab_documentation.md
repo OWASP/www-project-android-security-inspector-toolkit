@@ -8,4 +8,21 @@ tags: all-tag
 
 ## Documentation
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+follow the navigation items for more!
+
+- [Quick start](#quick-start)
+- [Extrack info APK (example)](#extrack-info-APK-(example))
+
+
+### Quick start
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+
+- [Download the latest release](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
+- Clone the repo: `git clone https://***/tool.git`
+- Install with [python](https://www.***.com/): `apt-get install toolkit-example-line`
+
+### Extrack info APK (example)
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+
+- Install with [python](https://www.***.com/): `apt-get install toolkit-example-line`
