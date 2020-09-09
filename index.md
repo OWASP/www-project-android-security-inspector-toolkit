@@ -31,3 +31,12 @@ This Project mainly targets 3 type of audience:
 * Developers (for validate security issues)
 * Security Researchers (for faster finding of the vulnerability)
 * Security enthusiasts (Students who want to learn more about Security)
+
+## Audience
+This Project mainly targets 3 type of audience:
+
+## Licensing
+This program is open Source License
+
+[![license](https://img.shields.io/badge/license-APACHE-green.svg)](https://www.apache.org/)
+
