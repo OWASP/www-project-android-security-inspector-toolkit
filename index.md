@@ -29,7 +29,7 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 
 ## Quick links
 
-- [Extract APK and Automatic deobfuscate](#quick-1)
+- [Extract APK and Automatic deobfuscate](#Extract-APK-and-Automati-deobfuscate)
 - [Manual discovery and pre-configured search options into source code](#quick-2)
 - [Frida gadgets automation for advanced evasion options](#quick-3)
 - [Analysis of various types of files](#quick-4)
@@ -37,6 +37,8 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 - [Extraction of files / artifacts](#quick-6)
 - [Interact with ADB commands](#quick-7)
 - [Easy installation/view/delete certificate SSL width only plug & play device](#quick-8)
+
+follow the navigation items for more
 
 
 ## Audience
@@ -52,3 +54,10 @@ This program is open Source License.
 
 [![license](https://img.shields.io/badge/license-APACHE-green.svg)](https://www.apache.org/)
 
+
+## Extract APK and Automatic deobfuscate
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+
+- [Download the latest release](https:***.com)
+- Clone the repo: `git clone https://***/tool.git`
+- Install with [python](https://www.***.com/): `apt-get install toolkit`
