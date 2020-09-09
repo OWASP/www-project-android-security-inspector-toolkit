@@ -2,7 +2,6 @@
 Incubator Project
 
 #### nuevo text
-[![New projects](assets/images/New_projects.png)](https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects)
 <span style="font-size:1.0em;padding-left:12px;">Lab Project</span>
 
 * [Tool Project](#)
