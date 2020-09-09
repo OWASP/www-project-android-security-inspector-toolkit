@@ -27,6 +27,18 @@ This tool is designed to help in the search for security vulnerabilities in Andr
 Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
 
 
+## Quick links
+
+- [Extract APK and Automatic deobfuscate](#quick-1)
+- [Manual discovery and pre-configured search options into source code](#quick-2)
+- [Frida gadgets automation for advanced evasion options](#quick-3)
+- [Analysis of various types of files](#quick-4)
+- [Hexdump Viewer/Editor](#quick-5)
+- [Extraction of files / artifacts](#quick-6)
+- [Interact with ADB commands](#quick-7)
+- [Easy installation/view/delete certificate SSL width only plug & play device](#quick-8)
+
+
 ## Audience
 This Project mainly targets 3 type of audience:
 
