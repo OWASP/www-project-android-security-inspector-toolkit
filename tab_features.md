@@ -1,14 +1,11 @@
-tab_features.md
-
-
 ---
 title: Features
 layout:  null
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: features-tag
 ---
 
-## Example
+## Features
 
 Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
