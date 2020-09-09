@@ -1,4 +1,4 @@
-### Android Security Inspector Toolkit Information
+### Project Information
 * [Incubator Project](#)
 * [Tool Project](#)
 * [Version 2.8.0](#)
