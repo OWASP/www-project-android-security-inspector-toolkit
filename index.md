@@ -10,7 +10,10 @@ pitch: A very brief, one-line description of your project
 ---
 ![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
 
-[![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/)
+![owasp state](https://img.shields.io/badge/owasp-Incubator%20Project-green.svg)
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+![Release version](https://img.shields.io/badge/release-v0.1.0-blue.svg)
+![GitHub stars](https://img.shields.io/badge/Github%20%E2%98%85-1k-blue.svg)
 
 The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
 
