@@ -1,5 +1,5 @@
 ### Project Information
-* [Incubator Project](#)
+Incubator Project
 * [Tool Project](#)
 * [Version 2.8.0](#)
 * [Builder](#)
