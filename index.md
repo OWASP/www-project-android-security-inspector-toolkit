@@ -9,7 +9,6 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-
 ![owasp state](https://img.shields.io/badge/owasp-Incubator%20Project-green.svg)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 ![Release version](https://img.shields.io/badge/release-v2.8.0-blue.svg)
@@ -19,70 +18,16 @@ pitch: A very brief, one-line description of your project
 
 ![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
 
+## Description
 The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
 
 This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
 
 Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
 
+## Audience
+This Project mainly targets 3 type of audience:
 
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Documentation](#documentation)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Contributing](#contributing)
-- [Thanks](#thanks)
-- [Sponsors](#sponsors)
-- [Copyright and license](#copyright-and-license)
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
-
-This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
-
-Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
-
-## Quick start
-
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
-
-- [Download the latest release](https:***.com)
-- Clone the repo: `git clone https://***/tool.git`
-- Install with [python](https://www.***.com/): `apt-get install toolkit`
+* Developers (for validate security issues)
+* Security Researchers (for faster finding of the vulnerability)
+* Security enthusiasts (Students who want to learn more about Security)
