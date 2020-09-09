@@ -30,7 +30,7 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 ## Quick links
 
 - [Extract APK and Automatic deobfuscate](#extract-apk-and-automatic-deobfuscate)
-- [Manual discovery and pre-configured search options into source code](#quick-2)
+- [Manual discovery and pre-configured search options into source code](#manual-discovery-and-pre-configured-search-options-into-source-code)
 - [Frida gadgets automation for advanced evasion options](#quick-3)
 - [Analysis of various types of files](#quick-4)
 - [Hexdump Viewer/Editor](#quick-5)
@@ -38,15 +38,18 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 - [Interact with ADB commands](#quick-7)
 - [Easy installation/view/delete certificate SSL width only plug & play device](#quick-8)
 
-follow the navigation items for more
-
-
 ### Extract APK and Automatic deobfuscate
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 
 - [Download the latest release](https:***.com)
 - Clone the repo: `git clone https://***/tool.git`
 - Install with [python](https://www.***.com/): `apt-get install toolkit`
+
+### Manual discovery and pre-configured search options into source code
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt. Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt.
 
 
 ## Audience
