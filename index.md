@@ -10,6 +10,8 @@ pitch: A very brief, one-line description of your project
 ---
 ![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
 
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/)
+
 The general vision of the project is to implement a tool that eliminates difficulties as much as possible so that mobile security enthusiasts / professionals who wish to carry out a security assessment have the necessary tools at their disposal in the simplest and most automated way.
 
 This tool is designed to help in the search for security vulnerabilities in Android applications, full utility all fases for Dynamic Application Security Testing (DAST) and Static Application Security Testing (AST).
