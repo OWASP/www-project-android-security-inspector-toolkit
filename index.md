@@ -35,8 +35,8 @@ This Project mainly targets 3 type of audience:
 * Security enthusiasts (Students who want to learn more about Security)
 
 
-## Licensing
-This program is open Source License
+## License
+This program is open Source License.
 
 [![license](https://img.shields.io/badge/license-APACHE-green.svg)](https://www.apache.org/)
 
