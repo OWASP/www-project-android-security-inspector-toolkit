@@ -2,8 +2,8 @@
 title: Features
 layout:  null
 tab: true
-order: 2
-tags: features-tag
+order: 3
+tags: all-tag
 ---
 
 ## Features
