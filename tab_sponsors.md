@@ -13,7 +13,7 @@ tags: all-tag
   * ![Deepsecurity](/assets/images/logo_deepsecurity.jpg)
   * ![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
 
-
+&nbsp;
 * **All Individual Supporters**
   * Mauricio Urizar
   * Camilo Galdos
