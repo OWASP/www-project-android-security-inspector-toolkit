@@ -1,12 +1,12 @@
 ---
-title: Releases
+title: Sponsors
 layout:  null
 tab: true
 order: 5
 tags: all-tag
 ---
 
-## Latest Releases
+## Latest Sponsors
 
 * 2020-03-05 [v2.8.0-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
 * 2020-01-10 [v2.7.1-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
