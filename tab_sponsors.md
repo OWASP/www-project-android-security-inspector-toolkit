@@ -8,8 +8,15 @@ tags: all-tag
 
 ## Latest Sponsors
 
-* 2020-03-05 [v2.8.0-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
-* 2020-01-10 [v2.7.1-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
-* 2019-12-28 [v2.5.3-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
-* 2019-10-25 [v2.2.5-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
+* ASIT is maintained and developed by [DeepSecurity](https://deepsecurity.pe/)
+*  logo
+
+* All Individual Supporters
+*  Mauricio Urizar
+*  Camilo Galdos
+*  Hector Flores
+*  Darwin Algarin
+*  Elysa Garcia
+
+
 * 2019-08-10 [v2.0.1-example](https://github.com/OWASP/www-project-android-security-inspector-toolkit/tags)
