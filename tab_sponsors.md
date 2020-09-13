@@ -10,8 +10,7 @@ tags: all-tag
 
 * **ASIT is maintained and developed by [DeepSecurity](https://deepsecurity.pe/)**
   * ![Deepsecurity](/www-project-android-security-inspector-toolkit/assets/images/logo_deepsecurity.png)
-  * ![Deepsecurity](/assets/images/logo_deepsecurity.jpg)
-  * ![Android Security Inspector Toolkit](/assets/images/ASIT__Banner.jpg)
+  
 &nbsp;
 * **All Individual Supporters**
   * Mauricio Urizar
