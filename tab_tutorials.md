@@ -24,8 +24,8 @@ tags: all-tag
   </tr>
 
   <tr>
-    <td style="min-width: 190px">aaaaa</td>
-    <td style="min-width: 150px"; text-align: center; vertical-align: middle;>bbbbb</td>
-    <td style="min-width: 150px">ccccc</td>
+    <td style="min-width: 190px">Extract APK and Automatic deobfuscate</td>
+    <td style="min-width: 150px; text-align: center; vertical-align: middle;">...</td>
+    <td style="min-width: 150px">[Video_link](https://youtube.com/)</td>
   </tr>
 </table>
