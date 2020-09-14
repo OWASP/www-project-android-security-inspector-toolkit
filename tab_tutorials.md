@@ -20,16 +20,12 @@ tags: all-tag
   <tr>
     <th>Challenge</th>
     <th>Category</th>
-    <th>Difficulty</th>
+    <th>Visibility</th>
   </tr>
-  aaaaa
+
   <tr>
-    <td style="min-width: 190px"><a href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge={{ tutorial.name }}" target="_blank">{{ tutorial.name }}</a></td>
+    <td style="min-width: 190px">aaaaa</td>
     <td style="min-width: 190px">bbbbb</td>
-    <td style="min-width: 100px">
-ccccc
-      dddddddd
-    </td>
+    <td style="min-width: 100px">ccccc</td>
   </tr>
-  fffffffff
 </table>
