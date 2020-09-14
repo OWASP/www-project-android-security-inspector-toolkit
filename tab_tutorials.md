@@ -25,7 +25,7 @@ tags: all-tag
 
   <tr>
     <td style="min-width: 190px">aaaaa</td>
-    <td style="min-width: 150px">bbbbb</td>
+    <td style="min-width: 150px"; text-align: center; vertical-align: middle;>bbbbb</td>
     <td style="min-width: 150px">ccccc</td>
   </tr>
 </table>
