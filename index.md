@@ -27,29 +27,15 @@ This tool is designed to help in the search for security vulnerabilities in Andr
 Its main goal is to provide easy to use GUI tool multi plataform Windows or Linux environment 100% developed in python, it is friendly to develop custom extensions according to needs.
 
 
-## Quick links
-
-- [Extract APK and Automatic deobfuscate](#extract-apk-and-automatic-deobfuscate)
-- [Manual discovery and pre-configured search options into source code](#manual-discovery-and-pre-configured-search-options-into-source-code)
-- [Frida gadgets automation for advanced evasion options](#quick-3)
-- [Analysis of various types of files](#quick-4)
-- [Hexdump Viewer/Editor](#quick-5)
-- [Extraction of files / artifacts](#quick-6)
-- [Interact with ADB commands](#quick-7)
-- [Easy installation/view/delete certificate SSL width only plug & play device](#quick-8)
-
-### Extract APK and Automatic deobfuscate
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
-
-- [Download the latest release](https:***.com)
-- Clone the repo: `git clone https://***/tool.git`
-- Install with [python](https://www.***.com/): `apt-get install toolkit`
-
-### Manual discovery and pre-configured search options into source code
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
-
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt. Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt
-Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt.
+## How to Install
+* Linux:
+  * [Download the latest release for Linux](https://github.com/deepsecurity-pe/ApkAnalyzer/releases)
+  * Or Clone the repo: `git clone https://github.com/deepsecurity-pe/ApkAnalyzer.git`
+  * Run with Python 3: `python3 Asit.py`
+  
+* Windows:
+  * [Download the latest release for Windows](https://github.com/deepsecurity-pe/ApkAnalyzer/releases)
+  * Run Asit.exe
 
 
 ## Audience
