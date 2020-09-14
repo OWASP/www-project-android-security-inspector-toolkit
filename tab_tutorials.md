@@ -26,6 +26,6 @@ tags: all-tag
   <tr>
     <td style="min-width: 190px">Extract APK and Automatic deobfuscate</td>
     <td style="min-width: 150px; text-align: center; vertical-align: middle;">...</td>
-    <td style="min-width: 150px">[Video_link](https://youtube.com/)</td>
+    <td style="min-width: 150px"><a href="https://youtube.com" target="_blank">video link</a></td>
   </tr>
 </table>
