@@ -4,6 +4,9 @@
 #### Clasification
 * <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Tool</span>
 
+#### ChangeLog
+* [Releases](https://github.com/deepsecurity-pe/ApkAnalyzer/tags)
+
 #### Audience
 * <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span>
 * <i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Breaker</span>
