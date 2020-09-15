@@ -21,7 +21,7 @@ tags: all-tag
 
 ### Main features points
 
-* ***APK Obfuscate:***
+* ***APK Obfuscate:*** Decompile apk to get the source files.
 * ***APK INFO:*** Show basic information, copy and download files. example: AndroidManifest.
 * ***APK SEARCH:*** Using keywords search the match in decompiled files.
 * ***SHARED PREFERENCE:*** Allows to see and extract the shared preferences found.
