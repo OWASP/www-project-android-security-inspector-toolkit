@@ -8,16 +8,16 @@ tags: all-tag
 
 ## Features
 
-* ***APK Obfuscate***
-* ***APK INFO***
-* ***APK SEARCH***
-* ***SHARED PREFERENCE***
-* ***LOGCAT***
-* ***PUSH/PULL***
-* ***SQLviewer***
-* ***Frida Gadgets***
-* ***SHELL***
-* ***OPTIONS***
+* APK Obfuscate
+* APK INFO
+* APK SEARCH
+* SHARED PREFERENCE
+* LOGCAT
+* PUSH/PULL
+* SQLviewer
+* Frida Gadgets
+* SHELL
+* OPTIONS
 
 ### Main selling points
 
