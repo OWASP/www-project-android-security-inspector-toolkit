@@ -19,7 +19,7 @@ tags: all-tag
 * SHELL
 * OPTIONS
 
-### Main selling points
+### Main features points
 
 * ***APK Obfuscate:***
 * ***APK INFO:*** Show basic information, copy and download files. example: AndroidManifest.
