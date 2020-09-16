@@ -21,7 +21,7 @@ tags: all-tag
 
   <tr>
     <td style="min-width: 190px;">Manual discovery and pre-configured search options into source code</td>
-    <td style="min-width: 140px; text-align: center; vertical-align: middle;">...</td>
+    <td style="min-width: 140px; text-align: center; vertical-align: middle;"> <a href="https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering">https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering</a> </td>
     <td style="min-width: 140px; text-align: center; vertical-align: middle;"><a href="https://youtube.com" target="_blank">video link</a></td>
   </tr>
   
