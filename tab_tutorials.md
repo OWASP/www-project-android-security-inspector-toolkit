@@ -9,13 +9,13 @@ tags: all-tag
 <table>
   <tr>
     <th>Challenge</th>
-    <th>Category</th>
+    <th>Top 10</th>
     <th>Visibility</th>
   </tr>
   
   <tr>
     <td style="min-width: 190px;">Extract APK and Automatic deobfuscate</td>
-    <td style="min-width: 140px; text-align: center; vertical-align: middle;">...</td>
+    <td style="min-width: 140px; text-align: center; vertical-align: middle;"> <a href="https://owasp.org/www-project-mobile-top-10/2016-risks/m10-extraneous-functionality">M10: Extraneous Functionality</a> </td>
     <td style="min-width: 140px; text-align: center; vertical-align: middle;"><a href="https://youtube.com" target="_blank">video link</a></td>
   </tr>
 
