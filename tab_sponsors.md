@@ -16,4 +16,3 @@ tags: all-tag
   * Camilo Galdos
   * Hector Flores
   * Darwin Algarin
-  * Elysa Garcia
