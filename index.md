@@ -29,12 +29,12 @@ Its main goal is to provide easy to use GUI tool multi plataform Windows or Linu
 
 ## How to Install
 * Linux:
-  * [Download the latest release for Linux](https://github.com/deepsecurity-pe/ApkAnalyzer/releases)
-  * Or Clone the repo: `git clone https://github.com/deepsecurity-pe/ApkAnalyzer.git`
+  * [Download the latest release for Linux](https://github.com/deepsecurity-pe/OWASP-Android-Security-Inspector-Toolkit/)
+  * Or Clone the repo: `git clone https://github.com/deepsecurity-pe/OWASP-Android-Security-Inspector-Toolkit.git`
   * Run with Python 3: `python3 Asit.py`
   
 * Windows:
-  * [Download the latest release for Windows](https://github.com/deepsecurity-pe/ApkAnalyzer/releases)
+  * [Download the latest release for Windows](https://github.com/deepsecurity-pe/OWASP-Android-Security-Inspector-Toolkit/)
   * Run Asit.exe
 
 
